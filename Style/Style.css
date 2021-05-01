@@ -1,0 +1,27 @@
+h1 {
+  font-size: 50px;
+}
+body {
+  text-align: center;
+  font-family: monospace;
+}
+img {
+  max-width: 50%;
+  display: block;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 5px 5px 7px grey;
+}
+a:link {
+  color: #7adfeb;
+  text-decoration: none;
+}
+a:visited {
+  color: #333333;
+}
+a:hover {
+  color: #7a9aeb;
+}
+a:active {
+  color: red;
+}
